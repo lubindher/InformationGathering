@@ -1,4 +1,4 @@
-#EX 2
+## EX 2
 # To perform information gathering techniques
 
 ## AIM:
